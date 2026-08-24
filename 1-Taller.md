@@ -419,4 +419,4 @@ npm run dev
 - Todas las funciones deben tener parámetros correctamente tipados.
 - Los nombres de variables y funciones deben ser descriptivos.
 - El proyecto debe compilar sin errores.
-- Se debe cargar al repositorio antes de la clase del dia 28 de Agosto
+- Se debe cargar el proyecto comprimido a un drive y compartir el enlace al correo daniel.munoz.melendez@unillanos.edu.co antes de la clase del dia 28 de Agosto
