@@ -8,3 +8,7 @@ https://www.creative-tim.com/twcomponents/component/dashboard-navigation
 
 -  https://cdnjs.com/libraries/font-awesome,
 -  Para verlos https://fontawesome.com/icons
+
+# Trending
+
+https://flowbite.com/docs/components/gallery/
