@@ -54,7 +54,7 @@ Durante la exposición:
 | Criterio | Descripción | Ponderación |
 |-----------|--------------|--------------|
 | Estructura del proyecto | Organización, claridad y orden del código | 20% |
-| Consumo de APIs | Implementación y correcto funcionamiento de al menos 3 servicios | 25% |
+| Consumo de APIs | Implementación y correcto funcionamiento de al menos 2 servicios | 25% |
 | Explicación durante la exposición | Claridad, dominio y comprensión del tema | 25% |
 | Abarcar los temas vistos | Poner en practica lo aprendido | 15% |
 | Originalidad y valor agregado | Funcionalidades extra, diseño o mejoras notables | 15% |
